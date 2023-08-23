@@ -112,6 +112,7 @@ code {
 pre {
 	padding: 1.5em;
 	border-radius: 8px;
+	font-size: 1rem;
 }
 pre > code {
 	all: unset;
