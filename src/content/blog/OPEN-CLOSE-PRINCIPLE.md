@@ -1,7 +1,7 @@
 ---
 title: 'Open Closed Principle'
 description: 'In this article I will talk about the open close principle from SOLID.'
-pubDate: 'Aug 21 2023'
+pubDate: 'Aug 26 2023'
 heroImage: '/pingu3.jpg'
 ---
 
